@@ -1,0 +1,11 @@
+C:\Users\ASUS\source\repos\ByReference\ByReference\bin\Debug\netcoreapp3.1\ByReference.exe
+C:\Users\ASUS\source\repos\ByReference\ByReference\bin\Debug\netcoreapp3.1\ByReference.deps.json
+C:\Users\ASUS\source\repos\ByReference\ByReference\bin\Debug\netcoreapp3.1\ByReference.runtimeconfig.json
+C:\Users\ASUS\source\repos\ByReference\ByReference\bin\Debug\netcoreapp3.1\ByReference.runtimeconfig.dev.json
+C:\Users\ASUS\source\repos\ByReference\ByReference\bin\Debug\netcoreapp3.1\ByReference.dll
+C:\Users\ASUS\source\repos\ByReference\ByReference\bin\Debug\netcoreapp3.1\ByReference.pdb
+C:\Users\ASUS\source\repos\ByReference\ByReference\obj\Debug\netcoreapp3.1\ByReference.csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\ByReference\ByReference\obj\Debug\netcoreapp3.1\ByReference.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\ByReference\ByReference\obj\Debug\netcoreapp3.1\ByReference.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\ByReference\ByReference\obj\Debug\netcoreapp3.1\ByReference.dll
+C:\Users\ASUS\source\repos\ByReference\ByReference\obj\Debug\netcoreapp3.1\ByReference.pdb

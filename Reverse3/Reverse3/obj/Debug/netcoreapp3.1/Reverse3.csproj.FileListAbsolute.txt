@@ -1,0 +1,11 @@
+C:\Users\ASUS\source\repos\Reverse3\Reverse3\bin\Debug\netcoreapp3.1\Reverse3.exe
+C:\Users\ASUS\source\repos\Reverse3\Reverse3\bin\Debug\netcoreapp3.1\Reverse3.deps.json
+C:\Users\ASUS\source\repos\Reverse3\Reverse3\bin\Debug\netcoreapp3.1\Reverse3.runtimeconfig.json
+C:\Users\ASUS\source\repos\Reverse3\Reverse3\bin\Debug\netcoreapp3.1\Reverse3.runtimeconfig.dev.json
+C:\Users\ASUS\source\repos\Reverse3\Reverse3\bin\Debug\netcoreapp3.1\Reverse3.dll
+C:\Users\ASUS\source\repos\Reverse3\Reverse3\bin\Debug\netcoreapp3.1\Reverse3.pdb
+C:\Users\ASUS\source\repos\Reverse3\Reverse3\obj\Debug\netcoreapp3.1\Reverse3.csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\Reverse3\Reverse3\obj\Debug\netcoreapp3.1\Reverse3.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\Reverse3\Reverse3\obj\Debug\netcoreapp3.1\Reverse3.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\Reverse3\Reverse3\obj\Debug\netcoreapp3.1\Reverse3.dll
+C:\Users\ASUS\source\repos\Reverse3\Reverse3\obj\Debug\netcoreapp3.1\Reverse3.pdb

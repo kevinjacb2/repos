@@ -1,0 +1,11 @@
+C:\Users\ASUS\source\repos\X\X\bin\Debug\netcoreapp3.1\X.exe
+C:\Users\ASUS\source\repos\X\X\bin\Debug\netcoreapp3.1\X.deps.json
+C:\Users\ASUS\source\repos\X\X\bin\Debug\netcoreapp3.1\X.runtimeconfig.json
+C:\Users\ASUS\source\repos\X\X\bin\Debug\netcoreapp3.1\X.runtimeconfig.dev.json
+C:\Users\ASUS\source\repos\X\X\bin\Debug\netcoreapp3.1\X.dll
+C:\Users\ASUS\source\repos\X\X\bin\Debug\netcoreapp3.1\X.pdb
+C:\Users\ASUS\source\repos\X\X\obj\Debug\netcoreapp3.1\X.csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\X\X\obj\Debug\netcoreapp3.1\X.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\X\X\obj\Debug\netcoreapp3.1\X.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\X\X\obj\Debug\netcoreapp3.1\X.dll
+C:\Users\ASUS\source\repos\X\X\obj\Debug\netcoreapp3.1\X.pdb

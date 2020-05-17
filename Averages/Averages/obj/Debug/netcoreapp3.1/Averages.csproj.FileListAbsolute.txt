@@ -1,0 +1,11 @@
+C:\Users\ASUS\source\repos\Averages\Averages\bin\Debug\netcoreapp3.1\Averages.exe
+C:\Users\ASUS\source\repos\Averages\Averages\bin\Debug\netcoreapp3.1\Averages.deps.json
+C:\Users\ASUS\source\repos\Averages\Averages\bin\Debug\netcoreapp3.1\Averages.runtimeconfig.json
+C:\Users\ASUS\source\repos\Averages\Averages\bin\Debug\netcoreapp3.1\Averages.runtimeconfig.dev.json
+C:\Users\ASUS\source\repos\Averages\Averages\bin\Debug\netcoreapp3.1\Averages.dll
+C:\Users\ASUS\source\repos\Averages\Averages\bin\Debug\netcoreapp3.1\Averages.pdb
+C:\Users\ASUS\source\repos\Averages\Averages\obj\Debug\netcoreapp3.1\Averages.csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\Averages\Averages\obj\Debug\netcoreapp3.1\Averages.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\Averages\Averages\obj\Debug\netcoreapp3.1\Averages.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\Averages\Averages\obj\Debug\netcoreapp3.1\Averages.dll
+C:\Users\ASUS\source\repos\Averages\Averages\obj\Debug\netcoreapp3.1\Averages.pdb

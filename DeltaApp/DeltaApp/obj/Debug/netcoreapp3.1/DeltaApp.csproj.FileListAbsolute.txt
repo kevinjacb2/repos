@@ -1,0 +1,11 @@
+C:\Users\ASUS\source\repos\DeltaApp\DeltaApp\bin\Debug\netcoreapp3.1\DeltaApp.exe
+C:\Users\ASUS\source\repos\DeltaApp\DeltaApp\bin\Debug\netcoreapp3.1\DeltaApp.deps.json
+C:\Users\ASUS\source\repos\DeltaApp\DeltaApp\bin\Debug\netcoreapp3.1\DeltaApp.runtimeconfig.json
+C:\Users\ASUS\source\repos\DeltaApp\DeltaApp\bin\Debug\netcoreapp3.1\DeltaApp.runtimeconfig.dev.json
+C:\Users\ASUS\source\repos\DeltaApp\DeltaApp\bin\Debug\netcoreapp3.1\DeltaApp.dll
+C:\Users\ASUS\source\repos\DeltaApp\DeltaApp\bin\Debug\netcoreapp3.1\DeltaApp.pdb
+C:\Users\ASUS\source\repos\DeltaApp\DeltaApp\obj\Debug\netcoreapp3.1\DeltaApp.csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\DeltaApp\DeltaApp\obj\Debug\netcoreapp3.1\DeltaApp.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\DeltaApp\DeltaApp\obj\Debug\netcoreapp3.1\DeltaApp.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\DeltaApp\DeltaApp\obj\Debug\netcoreapp3.1\DeltaApp.dll
+C:\Users\ASUS\source\repos\DeltaApp\DeltaApp\obj\Debug\netcoreapp3.1\DeltaApp.pdb

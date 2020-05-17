@@ -1,0 +1,10 @@
+C:\Users\ASUS\source\repos\MonthValidation\MonthValidation\bin\Debug\netcoreapp3.1\MonthValidation.exe
+C:\Users\ASUS\source\repos\MonthValidation\MonthValidation\bin\Debug\netcoreapp3.1\MonthValidation.deps.json
+C:\Users\ASUS\source\repos\MonthValidation\MonthValidation\bin\Debug\netcoreapp3.1\MonthValidation.runtimeconfig.json
+C:\Users\ASUS\source\repos\MonthValidation\MonthValidation\bin\Debug\netcoreapp3.1\MonthValidation.runtimeconfig.dev.json
+C:\Users\ASUS\source\repos\MonthValidation\MonthValidation\bin\Debug\netcoreapp3.1\MonthValidation.dll
+C:\Users\ASUS\source\repos\MonthValidation\MonthValidation\bin\Debug\netcoreapp3.1\MonthValidation.pdb
+C:\Users\ASUS\source\repos\MonthValidation\MonthValidation\obj\Debug\netcoreapp3.1\MonthValidation.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\MonthValidation\MonthValidation\obj\Debug\netcoreapp3.1\MonthValidation.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\MonthValidation\MonthValidation\obj\Debug\netcoreapp3.1\MonthValidation.dll
+C:\Users\ASUS\source\repos\MonthValidation\MonthValidation\obj\Debug\netcoreapp3.1\MonthValidation.pdb

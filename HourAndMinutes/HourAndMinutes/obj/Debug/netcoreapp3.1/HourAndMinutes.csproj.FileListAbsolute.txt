@@ -1,0 +1,11 @@
+C:\Users\ASUS\source\repos\HourAndMinutes\HourAndMinutes\bin\Debug\netcoreapp3.1\HourAndMinutes.exe
+C:\Users\ASUS\source\repos\HourAndMinutes\HourAndMinutes\bin\Debug\netcoreapp3.1\HourAndMinutes.deps.json
+C:\Users\ASUS\source\repos\HourAndMinutes\HourAndMinutes\bin\Debug\netcoreapp3.1\HourAndMinutes.runtimeconfig.json
+C:\Users\ASUS\source\repos\HourAndMinutes\HourAndMinutes\bin\Debug\netcoreapp3.1\HourAndMinutes.runtimeconfig.dev.json
+C:\Users\ASUS\source\repos\HourAndMinutes\HourAndMinutes\bin\Debug\netcoreapp3.1\HourAndMinutes.dll
+C:\Users\ASUS\source\repos\HourAndMinutes\HourAndMinutes\bin\Debug\netcoreapp3.1\HourAndMinutes.pdb
+C:\Users\ASUS\source\repos\HourAndMinutes\HourAndMinutes\obj\Debug\netcoreapp3.1\HourAndMinutes.csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\HourAndMinutes\HourAndMinutes\obj\Debug\netcoreapp3.1\HourAndMinutes.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\HourAndMinutes\HourAndMinutes\obj\Debug\netcoreapp3.1\HourAndMinutes.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\HourAndMinutes\HourAndMinutes\obj\Debug\netcoreapp3.1\HourAndMinutes.dll
+C:\Users\ASUS\source\repos\HourAndMinutes\HourAndMinutes\obj\Debug\netcoreapp3.1\HourAndMinutes.pdb

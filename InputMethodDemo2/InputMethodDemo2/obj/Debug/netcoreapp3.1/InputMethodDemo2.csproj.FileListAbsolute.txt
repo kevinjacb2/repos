@@ -1,0 +1,11 @@
+C:\Users\ASUS\source\repos\InputMethodDemo2\InputMethodDemo2\bin\Debug\netcoreapp3.1\InputMethodDemo2.exe
+C:\Users\ASUS\source\repos\InputMethodDemo2\InputMethodDemo2\bin\Debug\netcoreapp3.1\InputMethodDemo2.deps.json
+C:\Users\ASUS\source\repos\InputMethodDemo2\InputMethodDemo2\bin\Debug\netcoreapp3.1\InputMethodDemo2.runtimeconfig.json
+C:\Users\ASUS\source\repos\InputMethodDemo2\InputMethodDemo2\bin\Debug\netcoreapp3.1\InputMethodDemo2.runtimeconfig.dev.json
+C:\Users\ASUS\source\repos\InputMethodDemo2\InputMethodDemo2\bin\Debug\netcoreapp3.1\InputMethodDemo2.dll
+C:\Users\ASUS\source\repos\InputMethodDemo2\InputMethodDemo2\bin\Debug\netcoreapp3.1\InputMethodDemo2.pdb
+C:\Users\ASUS\source\repos\InputMethodDemo2\InputMethodDemo2\obj\Debug\netcoreapp3.1\InputMethodDemo2.csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\InputMethodDemo2\InputMethodDemo2\obj\Debug\netcoreapp3.1\InputMethodDemo2.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\InputMethodDemo2\InputMethodDemo2\obj\Debug\netcoreapp3.1\InputMethodDemo2.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\InputMethodDemo2\InputMethodDemo2\obj\Debug\netcoreapp3.1\InputMethodDemo2.dll
+C:\Users\ASUS\source\repos\InputMethodDemo2\InputMethodDemo2\obj\Debug\netcoreapp3.1\InputMethodDemo2.pdb

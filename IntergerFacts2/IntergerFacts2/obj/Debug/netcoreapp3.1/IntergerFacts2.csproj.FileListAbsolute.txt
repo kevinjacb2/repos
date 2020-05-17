@@ -1,0 +1,11 @@
+C:\Users\ASUS\source\repos\IntergerFacts2\IntergerFacts2\bin\Debug\netcoreapp3.1\IntergerFacts2.exe
+C:\Users\ASUS\source\repos\IntergerFacts2\IntergerFacts2\bin\Debug\netcoreapp3.1\IntergerFacts2.deps.json
+C:\Users\ASUS\source\repos\IntergerFacts2\IntergerFacts2\bin\Debug\netcoreapp3.1\IntergerFacts2.runtimeconfig.json
+C:\Users\ASUS\source\repos\IntergerFacts2\IntergerFacts2\bin\Debug\netcoreapp3.1\IntergerFacts2.runtimeconfig.dev.json
+C:\Users\ASUS\source\repos\IntergerFacts2\IntergerFacts2\bin\Debug\netcoreapp3.1\IntergerFacts2.dll
+C:\Users\ASUS\source\repos\IntergerFacts2\IntergerFacts2\bin\Debug\netcoreapp3.1\IntergerFacts2.pdb
+C:\Users\ASUS\source\repos\IntergerFacts2\IntergerFacts2\obj\Debug\netcoreapp3.1\IntergerFacts2.csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\IntergerFacts2\IntergerFacts2\obj\Debug\netcoreapp3.1\IntergerFacts2.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\IntergerFacts2\IntergerFacts2\obj\Debug\netcoreapp3.1\IntergerFacts2.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\IntergerFacts2\IntergerFacts2\obj\Debug\netcoreapp3.1\IntergerFacts2.dll
+C:\Users\ASUS\source\repos\IntergerFacts2\IntergerFacts2\obj\Debug\netcoreapp3.1\IntergerFacts2.pdb

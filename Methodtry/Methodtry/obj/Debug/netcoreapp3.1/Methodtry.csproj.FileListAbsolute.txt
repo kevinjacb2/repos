@@ -1,0 +1,11 @@
+C:\Users\ASUS\source\repos\Methodtry\Methodtry\bin\Debug\netcoreapp3.1\Methodtry.exe
+C:\Users\ASUS\source\repos\Methodtry\Methodtry\bin\Debug\netcoreapp3.1\Methodtry.deps.json
+C:\Users\ASUS\source\repos\Methodtry\Methodtry\bin\Debug\netcoreapp3.1\Methodtry.runtimeconfig.json
+C:\Users\ASUS\source\repos\Methodtry\Methodtry\bin\Debug\netcoreapp3.1\Methodtry.runtimeconfig.dev.json
+C:\Users\ASUS\source\repos\Methodtry\Methodtry\bin\Debug\netcoreapp3.1\Methodtry.dll
+C:\Users\ASUS\source\repos\Methodtry\Methodtry\bin\Debug\netcoreapp3.1\Methodtry.pdb
+C:\Users\ASUS\source\repos\Methodtry\Methodtry\obj\Debug\netcoreapp3.1\Methodtry.csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\Methodtry\Methodtry\obj\Debug\netcoreapp3.1\Methodtry.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\Methodtry\Methodtry\obj\Debug\netcoreapp3.1\Methodtry.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\Methodtry\Methodtry\obj\Debug\netcoreapp3.1\Methodtry.dll
+C:\Users\ASUS\source\repos\Methodtry\Methodtry\obj\Debug\netcoreapp3.1\Methodtry.pdb

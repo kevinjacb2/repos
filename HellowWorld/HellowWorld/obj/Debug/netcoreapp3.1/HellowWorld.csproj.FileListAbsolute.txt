@@ -1,0 +1,11 @@
+C:\Users\ASUS\source\repos\HellowWorld\HellowWorld\bin\Debug\netcoreapp3.1\HellowWorld.exe
+C:\Users\ASUS\source\repos\HellowWorld\HellowWorld\bin\Debug\netcoreapp3.1\HellowWorld.deps.json
+C:\Users\ASUS\source\repos\HellowWorld\HellowWorld\bin\Debug\netcoreapp3.1\HellowWorld.runtimeconfig.json
+C:\Users\ASUS\source\repos\HellowWorld\HellowWorld\bin\Debug\netcoreapp3.1\HellowWorld.runtimeconfig.dev.json
+C:\Users\ASUS\source\repos\HellowWorld\HellowWorld\bin\Debug\netcoreapp3.1\HellowWorld.dll
+C:\Users\ASUS\source\repos\HellowWorld\HellowWorld\bin\Debug\netcoreapp3.1\HellowWorld.pdb
+C:\Users\ASUS\source\repos\HellowWorld\HellowWorld\obj\Debug\netcoreapp3.1\HellowWorld.csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\HellowWorld\HellowWorld\obj\Debug\netcoreapp3.1\HellowWorld.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\HellowWorld\HellowWorld\obj\Debug\netcoreapp3.1\HellowWorld.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\HellowWorld\HellowWorld\obj\Debug\netcoreapp3.1\HellowWorld.dll
+C:\Users\ASUS\source\repos\HellowWorld\HellowWorld\obj\Debug\netcoreapp3.1\HellowWorld.pdb
